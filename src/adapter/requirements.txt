@@ -1,0 +1,7 @@
+# 华为云 Python SDK（函数运行期依赖，需打包进 zip）
+huaweicloudsdkcore
+huaweicloudsdkevs
+huaweicloudsdkorganizations
+huaweicloudsdkiam
+huaweicloudsdktms
+huaweicloudsdkobs   # 仅当启用 OBS 落盘时需要
